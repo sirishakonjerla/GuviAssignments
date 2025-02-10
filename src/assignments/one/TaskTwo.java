@@ -3,7 +3,7 @@ package assignments.one;
 public class TaskTwo {
 
 	public static void main(String[] args) {
-		int a =3;
+		int a =4;
 		
 		if( a%2 == 0 ){
 			

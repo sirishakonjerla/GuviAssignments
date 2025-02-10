@@ -4,7 +4,8 @@ public class TaskTen {
 
 	public static void main(String[] args) {
 	 int a =123;
-	 System.out.println(String.valueOf(a).length());
+	 System.out.println("Entered Number "+a);
+	 System.out.println("Number of digits " +String.valueOf(a).length());
 
 	}
 
